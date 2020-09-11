@@ -1,0 +1,8 @@
+{
+  "name": "icononuevo",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
